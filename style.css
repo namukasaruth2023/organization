@@ -1,0 +1,44 @@
+body{
+    background-color: bisque;
+}
+.image{
+    height:50%;
+    width: 40%;
+    display: inline block;
+    
+}
+
+.gallery{
+    height: 300px;
+    width: 400px;
+    display:inline block;
+    
+
+}
+.services{
+    display: inline-block;
+    height: 50%;
+    width: 30px;
+}
+.nav{
+    background-color: aqua;
+    padding: 20px;
+    margin: 20px;
+    text-decoration: none;
+    text-align: center;
+   
+
+}
+.nav a {
+    padding: left 30px;
+}
+.nav a :hover{
+    color: aliceblue;
+}
+
+.contact{
+di
+  
+
+}
+    
